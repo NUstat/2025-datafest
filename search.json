@@ -35,13 +35,6 @@
     "text": "Previous ASA DataFests\nAlthough this is the first-ever DataFest at Northwestern, several top universities all over the world have been collaborating with ASA to host DataFests since 2011. Here is the link to the problem statements of the previous DataFests."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "This is the website for the first ever Northwestern hosted ASA DataFest!\nThere will be more information to come soon!"
-  },
-  {
     "objectID": "signup.html#participants",
     "href": "signup.html#participants",
     "title": "DataFest 2025",
@@ -61,6 +54,111 @@
     "title": "DataFest 2025",
     "section": "Questions",
     "text": "Questions\nIf you have any questions about your registration, or about the DataFest, please contact Krish at krish [at] northwestern.edu"
+  },
+  {
+    "objectID": "faqs.html",
+    "href": "faqs.html",
+    "title": "FAQs",
+    "section": "",
+    "text": "Registration will open Spring 2025."
+  },
+  {
+    "objectID": "faqs.html#how-do-i-sign-up",
+    "href": "faqs.html#how-do-i-sign-up",
+    "title": "FAQs",
+    "section": "",
+    "text": "Registration will open Spring 2025."
+  },
+  {
+    "objectID": "faqs.html#what-do-i-bring-to-datafest",
+    "href": "faqs.html#what-do-i-bring-to-datafest",
+    "title": "FAQs",
+    "section": "What do I bring to DataFest?",
+    "text": "What do I bring to DataFest?\nPlease bring a laptop, charger and refillable water bottle."
+  },
+  {
+    "objectID": "faqs.html#is-there-a-registration-fee",
+    "href": "faqs.html#is-there-a-registration-fee",
+    "title": "FAQs",
+    "section": "Is there a registration fee?",
+    "text": "Is there a registration fee?\nNo, there is no registration fee. However note that the event takes significant resources to run. So, if you sign up, we expect that you will show up! If your plans change, let us know as soon as possible so we can make your spot available to someone else."
+  },
+  {
+    "objectID": "faqs.html#who-is-eligible-to-compete",
+    "href": "faqs.html#who-is-eligible-to-compete",
+    "title": "FAQs",
+    "section": "Who is eligible to compete?",
+    "text": "Who is eligible to compete?\nAll undergraduate students at Northwestern University are eligible."
+  },
+  {
+    "objectID": "faqs.html#what-about-phd-students",
+    "href": "faqs.html#what-about-phd-students",
+    "title": "FAQs",
+    "section": "What about PhD students?",
+    "text": "What about PhD students?\nWe would like to have Ph.D. students be involved as mentors during the event."
+  },
+  {
+    "objectID": "faqs.html#can-i-participate-as-a-mentor-if-i-am-an-ms-student",
+    "href": "faqs.html#can-i-participate-as-a-mentor-if-i-am-an-ms-student",
+    "title": "FAQs",
+    "section": "Can I participate as a mentor if I am an MS student?",
+    "text": "Can I participate as a mentor if I am an MS student?\nSure!"
+  },
+  {
+    "objectID": "faqs.html#how-large-are-the-teams",
+    "href": "faqs.html#how-large-are-the-teams",
+    "title": "FAQs",
+    "section": "How large are the teams?",
+    "text": "How large are the teams?\nTeams can be made up of 3 - 5 students."
+  },
+  {
+    "objectID": "faqs.html#do-i-have-to-compete-in-a-team",
+    "href": "faqs.html#do-i-have-to-compete-in-a-team",
+    "title": "FAQs",
+    "section": "Do I have to compete in a team?",
+    "text": "Do I have to compete in a team?\nYes, but if you don’t have a team in mind, select the “Looking for team” registration under the sign ups page and we’ll match you with others looking for teammates."
+  },
+  {
+    "objectID": "faqs.html#what-do-i-need-to-compete",
+    "href": "faqs.html#what-do-i-need-to-compete",
+    "title": "FAQs",
+    "section": "What do I need to compete?",
+    "text": "What do I need to compete?\nAll you need is a laptop with tools for data analysis (there is no limitation on which software you use) and enthusiasm for data."
+  },
+  {
+    "objectID": "faqs.html#what-are-the-rules-of-the-competition",
+    "href": "faqs.html#what-are-the-rules-of-the-competition",
+    "title": "FAQs",
+    "section": "What are the rules of the competition?",
+    "text": "What are the rules of the competition?\n\nAll projects must be submitted by 11:45 am on Sunday, April 6. There is only one submission per team.\nAny additional data used in the project must be publicly available or openly licensed.\nAll interactive dashboards must be deployed online.\nAll slide decks and write ups must be submitted as a PDF document.\nIt’s a friendly competition, so collaboration between teams is encouraged. However, teams will compete each other for prizes."
+  },
+  {
+    "objectID": "faqs.html#how-do-i-submit-my-analysis",
+    "href": "faqs.html#how-do-i-submit-my-analysis",
+    "title": "FAQs",
+    "section": "How do I submit my analysis?",
+    "text": "How do I submit my analysis?\nOnce the registration window closes, participants will receive an email with a link to the project submission form."
+  },
+  {
+    "objectID": "faqs.html#where-can-i-get-help-during-the-competition",
+    "href": "faqs.html#where-can-i-get-help-during-the-competition",
+    "title": "FAQs",
+    "section": "Where can I get help during the competition?",
+    "text": "Where can I get help during the competition?\nMentors will be available in-person on Saturday (at times to be announced) to answer questions."
+  },
+  {
+    "objectID": "faqs.html#what-can-i-win",
+    "href": "faqs.html#what-can-i-win",
+    "title": "FAQs",
+    "section": "What can I win?",
+    "text": "What can I win?\nPrizes are being decided. Everyone gets a t-shirt!"
+  },
+  {
+    "objectID": "faqs.html#where-else-is-asa-datafest-happening",
+    "href": "faqs.html#where-else-is-asa-datafest-happening",
+    "title": "FAQs",
+    "section": "Where else is ASA DataFest happening?",
+    "text": "Where else is ASA DataFest happening?\nASA DataFest is growing fast! See the list of all participating institutions."
   },
   {
     "objectID": "schedule.html",
