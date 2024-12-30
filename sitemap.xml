@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://NUstat.github.io/2025-datafest/index.html</loc>
-    <lastmod>2024-12-30T10:57:07.367Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NUstat.github.io/2025-datafest/signup.html</loc>
-    <lastmod>2024-12-30T10:57:07.367Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NUstat.github.io/2025-datafest/faqs.html</loc>
-    <lastmod>2024-12-30T10:57:07.367Z</lastmod>
+    <loc>https://NUstat.github.io/2025-datafest/coc.html</loc>
+    <lastmod>2024-12-30T12:35:17.871Z</lastmod>
   </url>
   <url>
     <loc>https://NUstat.github.io/2025-datafest/schedule.html</loc>
-    <lastmod>2024-12-30T10:57:07.367Z</lastmod>
+    <lastmod>2024-12-30T12:35:17.871Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NUstat.github.io/2025-datafest/faqs.html</loc>
+    <lastmod>2024-12-30T12:35:17.871Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NUstat.github.io/2025-datafest/signup.html</loc>
+    <lastmod>2024-12-30T12:35:17.871Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NUstat.github.io/2025-datafest/index.html</loc>
+    <lastmod>2024-12-30T12:35:17.871Z</lastmod>
   </url>
 </urlset>
