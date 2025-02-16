@@ -137,14 +137,14 @@
     "href": "faqs.html",
     "title": "FAQs",
     "section": "",
-    "text": "Registration will open soon."
+    "text": "Register on the sign-up page."
   },
   {
     "objectID": "faqs.html#how-do-i-sign-up",
     "href": "faqs.html#how-do-i-sign-up",
     "title": "FAQs",
     "section": "",
-    "text": "Registration will open soon."
+    "text": "Register on the sign-up page."
   },
   {
     "objectID": "faqs.html#what-do-i-bring-to-datafest",
@@ -224,10 +224,17 @@
     "text": "What can I win?\nWinning teams will be awarded the ASA Student Membership along with other prizes."
   },
   {
+    "objectID": "faqs.html#how-many-prizes-are-there",
+    "href": "faqs.html#how-many-prizes-are-there",
+    "title": "FAQs",
+    "section": "How many prizes are there?",
+    "text": "How many prizes are there?\nPrizes will be awarded in several categories, such as best insights, best visualization, best use of external data, most creative solution, most actionable recommendations, best story-telling, young analysts (for teams having all freshman / sophomore participants) award, best use of ML tools, and judges choice award. However, prize categories and number of prizes will be confirmed at the beginning of the event."
+  },
+  {
     "objectID": "faqs.html#where-else-is-asa-datafest-happening",
     "href": "faqs.html#where-else-is-asa-datafest-happening",
     "title": "FAQs",
     "section": "Where else is ASA DataFest happening?",
-    "text": "Where else is ASA DataFest happening?\nASA DataFest is growing fast! See the list of all participating institutions."
+    "text": "Where else is ASA DataFest happening?\nASA DataFest is happening in several top universities around the world! See the list of all participating institutions."
   }
 ]
