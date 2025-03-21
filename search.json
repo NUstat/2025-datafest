@@ -133,6 +133,69 @@
     "text": "Google map addresses\n\nGuild Lounge, Scott Hall (4th & 6th April)\n\n\n\n\n\n\n1-163 Wildcat room, Norris University Center (5th April)"
   },
   {
+    "objectID": "signup.html",
+    "href": "signup.html",
+    "title": "Sign Up!",
+    "section": "",
+    "text": "Each individual or team participating in the ASA DataFest at Northwestern University must submit a registration form."
+  },
+  {
+    "objectID": "signup.html#participants",
+    "href": "signup.html#participants",
+    "title": "Sign Up!",
+    "section": "Participants",
+    "text": "Participants\nWant to compete in a data analysis competition, talk to data science professionals, and network? Northwestern undergraduate students are invited to register for the ASA DataFest 2025 at Northwestern University. If you form your own team, you will need to include information about each member of your team, including the team name. If you have not formed a team, you will have the chance on the registration form to request placement on a team. Please fill the participant registration form below.\nParticipant registration"
+  },
+  {
+    "objectID": "signup.html#mentors",
+    "href": "signup.html#mentors",
+    "title": "Sign Up!",
+    "section": "Mentors",
+    "text": "Mentors\nWant to mentor undergraduate student teams to help unleash their potential in the competition? While graduate students and faculty cannot compete in the ASA DataFest at Northwestern University, we strongly encourage them to advise undergraduate student teams as mentors during the event! Please complete the Mentor sign-up form below.\nMentor sign-up"
+  },
+  {
+    "objectID": "signup.html#volunteers",
+    "href": "signup.html#volunteers",
+    "title": "Sign Up!",
+    "section": "Volunteers",
+    "text": "Volunteers\nWant to be part of the fun without having to compete? Be an event volunteer & help us run the event! There are several ways you can help - technical support, photography, social media, check-in desk, clean-up crew, etc. Join us during the event days (4th - 6th April), hang out, meet people, and have food & fun! Please complete the volunteer sign-up form below.\nVolunteer sign-up"
+  },
+  {
+    "objectID": "signup.html#organizing-team",
+    "href": "signup.html#organizing-team",
+    "title": "Sign Up!",
+    "section": "Organizing team",
+    "text": "Organizing team\nWant to be a part of important decision-making & execution, and help us organize the DataFest? Be an organizing committee member. You may join any of the following teams - (1) Publicity, (2) Logistics, (3) Communications, (4) Event coordination and planning. Please complete the organizing committee application below, and we’ll get back soon!\nOrganizing committee application\n\n\n\n\n\n\nNote\n\n\n\nIf you have any questions about your registration, or about the DataFest, or if you wish to make changes to your registration, please contact Krish at krish [at] northwestern.edu"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to DataFest 2025!",
+    "section": "",
+    "text": "Welcome to the official website of the first-ever DataFest at Northwestern! The event is primarily about a data science competition, where student teams compete for glory and prizes! The event also includes data scientists from both industry and academia to interact with and advise curious students. Also, there will be lots of food!"
+  },
+  {
+    "objectID": "index.html#event-details",
+    "href": "index.html#event-details",
+    "title": "Welcome to DataFest 2025!",
+    "section": "Event details",
+    "text": "Event details\nDate: Friday, April 4 at 5 pm - Sunday, April 6 at 7 pm\nVenue: Guild lounge (in Scott Hall) on April 4 & 6, Wildcat room 1-163 (in Norris) on April 5\nSign-up: Click here to sign-up for the event!\nParticipants: All UG students are invited to participate, while graduate students are invited to mentor student teams. We are also inviting volunteers to help us organize and run the event.\nYou will be provided with a dataset and an open-ended goal on Friday evening. By Sunday afternoon, you will have to develop and present solutions to a panel of judges comprised of faculty and professionals involved in the field of Data Science. There will be prizes in many categories, such as best visualization, best use of external data, and best findings. A finalized list of categories will be announced at the beginning of the competition.\nThe event also includes a keynote speech from a leading industry expert, and a panel discussion on Careers in data science comprising of both faculty and industry professionals."
+  },
+  {
+    "objectID": "index.html#what-is-datafest",
+    "href": "index.html#what-is-datafest",
+    "title": "Welcome to DataFest 2025!",
+    "section": "What is DataFest?",
+    "text": "What is DataFest?\nASA DataFest at Northwestern is a data analysis competition organized by the Department of Statistics and Data Science at Northwestern University in collaboration with ASA (American Statistical Association).\nTeams of 2 - 5 students analyse a potentially large & complex dataset, over a weekend. The problem statement is typically broad and open-ended, providing a lot of room for innovation. Your job is to find and communicate insights from the data that help answer the problem statement. You are encouraged to ask questions and receive advice from mentors, while working on the problem.\nASA DataFest is also a great opportunity to gain experience that employers are looking for. Having worked on a data analysis problem at this scale will certainly help make you a good candidate for any position that involves analysis and critical thinking, and it will provide a concrete example to demonstrate your experience during interviews.\nYou will also get the opportunity to interact with data scientists from industry and academia, to get some insights about a data science career.\nFood & drinks will be provided throughout the event to keep you going! We hope that everyone has an enjoyable and enlightening experience!"
+  },
+  {
+    "objectID": "index.html#previous-asa-datafests",
+    "href": "index.html#previous-asa-datafests",
+    "title": "Welcome to DataFest 2025!",
+    "section": "Previous ASA DataFests",
+    "text": "Previous ASA DataFests\nAlthough this is the first-ever DataFest at Northwestern, several top universities all over the world have been collaborating with ASA to host DataFests since 2011. Here is the link to the problem statements of the previous DataFests."
+  },
+  {
     "objectID": "coc.html",
     "href": "coc.html",
     "title": "Rules & Code of Conduct",
@@ -168,67 +231,11 @@
     "text": "Code of Conduct\nEveryone must follow the ASA Code of Conduct during the entire duration of the event."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to DataFest 2025!",
+    "objectID": "participants.html",
+    "href": "participants.html",
+    "title": "Participant Teams",
     "section": "",
-    "text": "Welcome to the official website of the first-ever DataFest at Northwestern! The event is primarily about a data science competition, where student teams compete for glory and prizes! The event also includes data scientists from both industry and academia to interact with and advise curious students. Also, there will be lots of food!"
-  },
-  {
-    "objectID": "index.html#event-details",
-    "href": "index.html#event-details",
-    "title": "Welcome to DataFest 2025!",
-    "section": "Event details",
-    "text": "Event details\nDate: Friday, April 4 at 5 pm - Sunday, April 6 at 7 pm\nVenue: Guild lounge (in Scott Hall) on April 4 & 6, Wildcat room 1-163 (in Norris) on April 5\nSign-up: Click here to sign-up for the event!\nParticipants: All UG students are invited to participate, while graduate students are invited to mentor student teams. We are also inviting volunteers to help us organize and run the event.\nYou will be provided with a dataset and an open-ended goal on Friday evening. By Sunday afternoon, you will have to develop and present solutions to a panel of judges comprised of faculty and professionals involved in the field of Data Science. There will be prizes in many categories, such as best visualization, best use of external data, and best findings. A finalized list of categories will be announced at the beginning of the competition.\nThe event also includes a keynote speech from a leading industry expert, and a panel discussion on Careers in data science comprising of both faculty and industry professionals."
-  },
-  {
-    "objectID": "index.html#what-is-datafest",
-    "href": "index.html#what-is-datafest",
-    "title": "Welcome to DataFest 2025!",
-    "section": "What is DataFest?",
-    "text": "What is DataFest?\nASA DataFest at Northwestern is a data analysis competition organized by the Department of Statistics and Data Science at Northwestern University in collaboration with ASA (American Statistical Association).\nTeams of 2 - 5 students analyse a potentially large & complex dataset, over a weekend. The problem statement is typically broad and open-ended, providing a lot of room for innovation. Your job is to find and communicate insights from the data that help answer the problem statement. You are encouraged to ask questions and receive advice from mentors, while working on the problem.\nASA DataFest is also a great opportunity to gain experience that employers are looking for. Having worked on a data analysis problem at this scale will certainly help make you a good candidate for any position that involves analysis and critical thinking, and it will provide a concrete example to demonstrate your experience during interviews.\nYou will also get the opportunity to interact with data scientists from industry and academia, to get some insights about a data science career.\nFood & drinks will be provided throughout the event to keep you going! We hope that everyone has an enjoyable and enlightening experience!"
-  },
-  {
-    "objectID": "index.html#previous-asa-datafests",
-    "href": "index.html#previous-asa-datafests",
-    "title": "Welcome to DataFest 2025!",
-    "section": "Previous ASA DataFests",
-    "text": "Previous ASA DataFests\nAlthough this is the first-ever DataFest at Northwestern, several top universities all over the world have been collaborating with ASA to host DataFests since 2011. Here is the link to the problem statements of the previous DataFests."
-  },
-  {
-    "objectID": "signup.html",
-    "href": "signup.html",
-    "title": "Sign Up!",
-    "section": "",
-    "text": "Each individual or team participating in the ASA DataFest at Northwestern University must submit a registration form."
-  },
-  {
-    "objectID": "signup.html#participants",
-    "href": "signup.html#participants",
-    "title": "Sign Up!",
-    "section": "Participants",
-    "text": "Participants\nWant to compete in a data analysis competition, talk to data science professionals, and network? Northwestern undergraduate students are invited to register for the ASA DataFest 2025 at Northwestern University. If you form your own team, you will need to include information about each member of your team, including the team name. If you have not formed a team, you will have the chance on the registration form to request placement on a team. Please fill the participant registration form below.\nParticipant registration"
-  },
-  {
-    "objectID": "signup.html#mentors",
-    "href": "signup.html#mentors",
-    "title": "Sign Up!",
-    "section": "Mentors",
-    "text": "Mentors\nWant to mentor undergraduate student teams to help unleash their potential in the competition? While graduate students and faculty cannot compete in the ASA DataFest at Northwestern University, we strongly encourage them to advise undergraduate student teams as mentors during the event! Please complete the Mentor sign-up form below.\nMentor sign-up"
-  },
-  {
-    "objectID": "signup.html#volunteers",
-    "href": "signup.html#volunteers",
-    "title": "Sign Up!",
-    "section": "Volunteers",
-    "text": "Volunteers\nWant to be part of the fun without having to compete? Be an event volunteer & help us run the event! There are several ways you can help - technical support, photography, social media, check-in desk, clean-up crew, etc. Join us during the event days (4th - 6th April), hang out, meet people, and have food & fun! Please complete the volunteer sign-up form below.\nVolunteer sign-up"
-  },
-  {
-    "objectID": "signup.html#organizing-team",
-    "href": "signup.html#organizing-team",
-    "title": "Sign Up!",
-    "section": "Organizing team",
-    "text": "Organizing team\nWant to be a part of important decision-making & execution, and help us organize the DataFest? Be an organizing committee member. You may join any of the following teams - (1) Publicity, (2) Logistics, (3) Communications, (4) Event coordination and planning. Please complete the organizing committee application below, and we’ll get back soon!\nOrganizing committee application\n\n\n\n\n\n\nNote\n\n\n\nIf you have any questions about your registration, or about the DataFest, or if you wish to make changes to your registration, please contact Krish at krish [at] northwestern.edu"
+    "text": "Send us a picture and a sentence to describe your team, and we’ll post it on this page. Get to know your competition & also network during the event. Below is an example of a picture of team members and a sentence describing them. We’ll read the sentence when introducing your team during the presentation to the judges!\n Armed with caffeine, questionable data cleaning techniques, and a shared fear of run-time errors, ‘Example Team’ is here to crunch numbers, break models (hopefully not too badly), and prove that statistics can be useful… sometimes!"
   },
   {
     "objectID": "sponsors.html",
