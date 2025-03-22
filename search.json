@@ -133,67 +133,18 @@
     "text": "Google map addresses\n\nGuild Lounge, Scott Hall (4th & 6th April)\n\n\n\n\n\n\n1-163 Wildcat room, Norris University Center (5th April)"
   },
   {
-    "objectID": "signup.html",
-    "href": "signup.html",
-    "title": "Sign Up!",
+    "objectID": "participants.html",
+    "href": "participants.html",
+    "title": "Participant Teams",
     "section": "",
-    "text": "Each individual or team participating in the ASA DataFest at Northwestern University must submit a registration form."
+    "text": "Share a photo of your team along with a one-sentence witty description, and we’ll feature it on this page! It’s a great way to get to know your competition and network during the event. Below is an example of a team photo and description. We’ll read your team description when introducing your team to the judges—so make it fun, witty, and informative (no pressure, though!). You’re welcome to combine individual photos into a single image, but please submit only one picture per team."
   },
   {
-    "objectID": "signup.html#participants",
-    "href": "signup.html#participants",
-    "title": "Sign Up!",
-    "section": "Participants",
-    "text": "Participants\nWant to compete in a data analysis competition, talk to data science professionals, and network? Northwestern undergraduate students are invited to register for the ASA DataFest 2025 at Northwestern University. If you form your own team, you will need to include information about each member of your team, including the team name. If you have not formed a team, you will have the chance on the registration form to request placement on a team. Please fill the participant registration form below.\nParticipant registration"
-  },
-  {
-    "objectID": "signup.html#mentors",
-    "href": "signup.html#mentors",
-    "title": "Sign Up!",
-    "section": "Mentors",
-    "text": "Mentors\nWant to mentor undergraduate student teams to help unleash their potential in the competition? While graduate students and faculty cannot compete in the ASA DataFest at Northwestern University, we strongly encourage them to advise undergraduate student teams as mentors during the event! Please complete the Mentor sign-up form below.\nMentor sign-up"
-  },
-  {
-    "objectID": "signup.html#volunteers",
-    "href": "signup.html#volunteers",
-    "title": "Sign Up!",
-    "section": "Volunteers",
-    "text": "Volunteers\nWant to be part of the fun without having to compete? Be an event volunteer & help us run the event! There are several ways you can help - technical support, photography, social media, check-in desk, clean-up crew, etc. Join us during the event days (4th - 6th April), hang out, meet people, and have food & fun! Please complete the volunteer sign-up form below.\nVolunteer sign-up"
-  },
-  {
-    "objectID": "signup.html#organizing-team",
-    "href": "signup.html#organizing-team",
-    "title": "Sign Up!",
-    "section": "Organizing team",
-    "text": "Organizing team\nWant to be a part of important decision-making & execution, and help us organize the DataFest? Be an organizing committee member. You may join any of the following teams - (1) Publicity, (2) Logistics, (3) Communications, (4) Event coordination and planning. Please complete the organizing committee application below, and we’ll get back soon!\nOrganizing committee application\n\n\n\n\n\n\nNote\n\n\n\nIf you have any questions about your registration, or about the DataFest, or if you wish to make changes to your registration, please contact Krish at krish [at] northwestern.edu"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to DataFest 2025!",
-    "section": "",
-    "text": "Welcome to the official website of the first-ever DataFest at Northwestern! The event is primarily about a data science competition, where student teams compete for glory and prizes! The event also includes data scientists from both industry and academia to interact with and advise curious students. Also, there will be lots of food!"
-  },
-  {
-    "objectID": "index.html#event-details",
-    "href": "index.html#event-details",
-    "title": "Welcome to DataFest 2025!",
-    "section": "Event details",
-    "text": "Event details\nDate: Friday, April 4 at 5 pm - Sunday, April 6 at 7 pm\nVenue: Guild lounge (in Scott Hall) on April 4 & 6, Wildcat room 1-163 (in Norris) on April 5\nSign-up: Click here to sign-up for the event!\nParticipants: All UG students are invited to participate, while graduate students are invited to mentor student teams. We are also inviting volunteers to help us organize and run the event.\nYou will be provided with a dataset and an open-ended goal on Friday evening. By Sunday afternoon, you will have to develop and present solutions to a panel of judges comprised of faculty and professionals involved in the field of Data Science. There will be prizes in many categories, such as best visualization, best use of external data, and best findings. A finalized list of categories will be announced at the beginning of the competition.\nThe event also includes a keynote speech from a leading industry expert, and a panel discussion on Careers in data science comprising of both faculty and industry professionals."
-  },
-  {
-    "objectID": "index.html#what-is-datafest",
-    "href": "index.html#what-is-datafest",
-    "title": "Welcome to DataFest 2025!",
-    "section": "What is DataFest?",
-    "text": "What is DataFest?\nASA DataFest at Northwestern is a data analysis competition organized by the Department of Statistics and Data Science at Northwestern University in collaboration with ASA (American Statistical Association).\nTeams of 2 - 5 students analyse a potentially large & complex dataset, over a weekend. The problem statement is typically broad and open-ended, providing a lot of room for innovation. Your job is to find and communicate insights from the data that help answer the problem statement. You are encouraged to ask questions and receive advice from mentors, while working on the problem.\nASA DataFest is also a great opportunity to gain experience that employers are looking for. Having worked on a data analysis problem at this scale will certainly help make you a good candidate for any position that involves analysis and critical thinking, and it will provide a concrete example to demonstrate your experience during interviews.\nYou will also get the opportunity to interact with data scientists from industry and academia, to get some insights about a data science career.\nFood & drinks will be provided throughout the event to keep you going! We hope that everyone has an enjoyable and enlightening experience!"
-  },
-  {
-    "objectID": "index.html#previous-asa-datafests",
-    "href": "index.html#previous-asa-datafests",
-    "title": "Welcome to DataFest 2025!",
-    "section": "Previous ASA DataFests",
-    "text": "Previous ASA DataFests\nAlthough this is the first-ever DataFest at Northwestern, several top universities all over the world have been collaborating with ASA to host DataFests since 2011. Here is the link to the problem statements of the previous DataFests."
+    "objectID": "participants.html#thinkers",
+    "href": "participants.html#thinkers",
+    "title": "Participant Teams",
+    "section": "1. Thinkers",
+    "text": "1. Thinkers\n Armed with caffeine, questionable data cleaning techniques, and a shared fear of run-time errors, Thinkers are here to prove that creative ideas can beat coding and statistical sophistication!"
   },
   {
     "objectID": "coc.html",
@@ -231,18 +182,123 @@
     "text": "Code of Conduct\nEveryone must follow the ASA Code of Conduct during the entire duration of the event."
   },
   {
-    "objectID": "participants.html",
-    "href": "participants.html",
-    "title": "Participant Teams",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to DataFest 2025!",
     "section": "",
-    "text": "Share a photo of your team along with a one-sentence witty description, and we’ll feature it on this page! It’s a great way to get to know your competition and network during the event. Below is an example of a team photo and description. We’ll read your team description when introducing your team to the judges—so make it fun, witty, and informative (no pressure, though!). You’re welcome to combine individual photos into a single image, but please submit only one picture per team."
+    "text": "Welcome to the official website of the first-ever DataFest at Northwestern! The event is primarily about a data science competition, where student teams compete for glory and prizes! The event also includes data scientists from both industry and academia to interact with and advise curious students. Also, there will be lots of food!"
   },
   {
-    "objectID": "participants.html#thinkers",
-    "href": "participants.html#thinkers",
-    "title": "Participant Teams",
-    "section": "1. Thinkers",
-    "text": "1. Thinkers\n Armed with caffeine, questionable data cleaning techniques, and a shared fear of run-time errors, Thinkers are here to prove that creative ideas can beat coding and statistical sophistication!"
+    "objectID": "index.html#event-details",
+    "href": "index.html#event-details",
+    "title": "Welcome to DataFest 2025!",
+    "section": "Event details",
+    "text": "Event details\nDate: Friday, April 4 at 5 pm - Sunday, April 6 at 7 pm\nVenue: Guild lounge (in Scott Hall) on April 4 & 6, Wildcat room 1-163 (in Norris) on April 5\nSign-up: Click here to sign-up for the event!\nParticipants: All UG students are invited to participate, while graduate students are invited to mentor student teams. We are also inviting volunteers to help us organize and run the event.\nYou will be provided with a dataset and an open-ended goal on Friday evening. By Sunday afternoon, you will have to develop and present solutions to a panel of judges comprised of faculty and professionals involved in the field of Data Science. There will be prizes in many categories, such as best visualization, best use of external data, and best findings. A finalized list of categories will be announced at the beginning of the competition.\nThe event also includes a keynote speech from a leading industry expert, and a panel discussion on Careers in data science comprising of both faculty and industry professionals."
+  },
+  {
+    "objectID": "index.html#what-is-datafest",
+    "href": "index.html#what-is-datafest",
+    "title": "Welcome to DataFest 2025!",
+    "section": "What is DataFest?",
+    "text": "What is DataFest?\nASA DataFest at Northwestern is a data analysis competition organized by the Department of Statistics and Data Science at Northwestern University in collaboration with ASA (American Statistical Association).\nTeams of 2 - 5 students analyse a potentially large & complex dataset, over a weekend. The problem statement is typically broad and open-ended, providing a lot of room for innovation. Your job is to find and communicate insights from the data that help answer the problem statement. You are encouraged to ask questions and receive advice from mentors, while working on the problem.\nASA DataFest is also a great opportunity to gain experience that employers are looking for. Having worked on a data analysis problem at this scale will certainly help make you a good candidate for any position that involves analysis and critical thinking, and it will provide a concrete example to demonstrate your experience during interviews.\nYou will also get the opportunity to interact with data scientists from industry and academia, to get some insights about a data science career.\nFood & drinks will be provided throughout the event to keep you going! We hope that everyone has an enjoyable and enlightening experience!"
+  },
+  {
+    "objectID": "index.html#previous-asa-datafests",
+    "href": "index.html#previous-asa-datafests",
+    "title": "Welcome to DataFest 2025!",
+    "section": "Previous ASA DataFests",
+    "text": "Previous ASA DataFests\nAlthough this is the first-ever DataFest at Northwestern, several top universities all over the world have been collaborating with ASA to host DataFests since 2011. Here is the link to the problem statements of the previous DataFests."
+  },
+  {
+    "objectID": "signup.html",
+    "href": "signup.html",
+    "title": "Sign Up!",
+    "section": "",
+    "text": "Each individual or team participating in the ASA DataFest at Northwestern University must submit a registration form."
+  },
+  {
+    "objectID": "signup.html#participants",
+    "href": "signup.html#participants",
+    "title": "Sign Up!",
+    "section": "Participants",
+    "text": "Participants\nWant to compete in a data analysis competition, talk to data science professionals, and network? Northwestern undergraduate students are invited to register for the ASA DataFest 2025 at Northwestern University. If you form your own team, you will need to include information about each member of your team, including the team name. If you have not formed a team, you will have the chance on the registration form to request placement on a team. Please fill the participant registration form below.\nParticipant registration"
+  },
+  {
+    "objectID": "signup.html#mentors",
+    "href": "signup.html#mentors",
+    "title": "Sign Up!",
+    "section": "Mentors",
+    "text": "Mentors\nWant to mentor undergraduate student teams to help unleash their potential in the competition? While graduate students and faculty cannot compete in the ASA DataFest at Northwestern University, we strongly encourage them to advise undergraduate student teams as mentors during the event! Please complete the Mentor sign-up form below.\nMentor sign-up"
+  },
+  {
+    "objectID": "signup.html#volunteers",
+    "href": "signup.html#volunteers",
+    "title": "Sign Up!",
+    "section": "Volunteers",
+    "text": "Volunteers\nWant to be part of the fun without having to compete? Be an event volunteer & help us run the event! There are several ways you can help - technical support, photography, social media, check-in desk, clean-up crew, etc. Join us during the event days (4th - 6th April), hang out, meet people, and have food & fun! Please complete the volunteer sign-up form below.\nVolunteer sign-up"
+  },
+  {
+    "objectID": "signup.html#organizing-team",
+    "href": "signup.html#organizing-team",
+    "title": "Sign Up!",
+    "section": "Organizing team",
+    "text": "Organizing team\nWant to be a part of important decision-making & execution, and help us organize the DataFest? Be an organizing committee member. You may join any of the following teams - (1) Publicity, (2) Logistics, (3) Communications, (4) Event coordination and planning. Please complete the organizing committee application below, and we’ll get back soon!\nOrganizing committee application\n\n\n\n\n\n\nNote\n\n\n\nIf you have any questions about your registration, or about the DataFest, or if you wish to make changes to your registration, please contact Krish at krish [at] northwestern.edu"
+  },
+  {
+    "objectID": "panelists_judges.html",
+    "href": "panelists_judges.html",
+    "title": "Meet our panelists & judges",
+    "section": "",
+    "text": "Meet our panelists & judges from different types and stages of a data science career. Learn from their experiences, ask questions, and network!"
+  },
+  {
+    "objectID": "panelists_judges.html#sanchit-tiwari",
+    "href": "panelists_judges.html#sanchit-tiwari",
+    "title": "Meet our panelists & judges",
+    "section": "Sanchit Tiwari",
+    "text": "Sanchit Tiwari\nAssociate Partner at McKinsey & Company I Senior Principal at QuantumBlack, AI by McKinsey\n(Keynote speaker, panelist and judge)\nSanchit Tiwari is a recognized AI & Data Science leader with extensive experience in Data-Centric AI, Digital Twin, GenAI, and scalable AI solution architecture. As an Associate Partners at McKinsey & Company and Senior Principal at QuantumBlack, AI by Mckinsey, Sanchit has led large scale AI driven transformation across the globe with multiple organizations. With two decades of experience, Sanchit specializes in leveraging advancement in AI and GenAI to optimize operations and business strategy. He has developed expertise in AI-powered Digital Twins and implementing AI driven automation to drive measurable business impact. Beyond his industry work, Sanchit is passionate thought leader, speaker, and mentor in the field of AI. He actively shares insights on Data Science and future of AI in enterprise. He is deeply committed bridging the gap between data science & AI research and real work applications, helping business scale data science solutions effectively. His academic foundation in computer science combined with his deep industry expertise enables him to blend Data Science research with practical business applications to create transformative solutions."
+  },
+  {
+    "objectID": "panelists_judges.html#daniela-hurtado-lange",
+    "href": "panelists_judges.html#daniela-hurtado-lange",
+    "title": "Meet our panelists & judges",
+    "section": "Daniela Hurtado Lange",
+    "text": "Daniela Hurtado Lange\nAssistant Professor, Kellogg School of Management, Northwestern University\n(Panelist and judge)\nDaniela received her Ph.D. in Operations Research at Georgia Tech in December 2021, a Master of Science in Industrial Engineering and an undergraduate degree in Industrial Engineering and Math Engineering at Pontificia Universidad Católica the Chile. Before joining Kellogg, she spent 1.5 years as an Assistant professor of Mathematics at William & Mary. Her research interests focus on performance analysis of Stochastic Processing Networks and applied probability, which are fundamental in data science for optimizing complex systems, modeling uncertainty, and improving decision-making in areas such as machine learning, operations research, and large-scale data processing."
+  },
+  {
+    "objectID": "panelists_judges.html#kevin-rak",
+    "href": "panelists_judges.html#kevin-rak",
+    "title": "Meet our panelists & judges",
+    "section": "Kevin Rak",
+    "text": "Kevin Rak\nData Specialist at Strengthening Chicago’s Youth, a program of Lurie Children’s Hospital\n(Panelist)\nKevin Rak is a Program Specialist (Data) with Strengthening Chicago’s Youth, a program of Lurie Children’s Hospital that connects, collaborates, and mobilizes around a public health approach to violence prevention. He has several years’ experience working in community-based organizations on a variety of issues, including homeless services, support for domestic violence survivors, and violence prevention. Kevin has analyzed and presented data to make it useful to residents, community organizations, researchers, and funders. He has contributed to research that has been published in peer-reviewed journals and shared with policy makers. Kevin holds a Bachelor’s in History from Northwestern University and a Master’s in Public Policy from King’s College London."
+  },
+  {
+    "objectID": "panelists_judges.html#tina-zheng",
+    "href": "panelists_judges.html#tina-zheng",
+    "title": "Meet our panelists & judges",
+    "section": "Tina Zheng",
+    "text": "Tina Zheng\nData Science Manager, Ventas REIT\n(Panelist and judge)\nTina Zheng is a Data Science Manager at Ventas, a leading real estate investment trust in the healthcare sector. She specializes in translating complex data into actionable insights that support strategic decisions around acquisitions, dispositions, and portfolio performance. At the intersection of research, analytics, and machine learning, Tina’s work drives the development of visualization tools and data-driven presentations that inform executive decision-making and enhance operational outcomes. She graduated from Northwestern University in 2019 with a double major in Economics and Music (Violin)."
+  },
+  {
+    "objectID": "panelists_judges.html#brian-nebolsky",
+    "href": "panelists_judges.html#brian-nebolsky",
+    "title": "Meet our panelists & judges",
+    "section": "Brian Nebolsky",
+    "text": "Brian Nebolsky\nQuantitative Portfolio Manager at Kershner Trading Group\n(Judge)\nBrian designs and implements end-to-end trading strategies informed by advanced statistical modeling and machine learning. His work spans a wide range of techniques—from Bayesian mixed models and random forests to transformer architectures and classical regression—applied to high-frequency intraday data. He regularly works across the full research and production pipeline, from data cleaning and feature engineering to model deployment in Python and C++. He is a 2020 graduate of Northwestern University with a major in Mathematics and the Kellogg Certificate in Managerial Analytics."
+  },
+  {
+    "objectID": "panelists_judges.html#lila-wells",
+    "href": "panelists_judges.html#lila-wells",
+    "title": "Meet our panelists & judges",
+    "section": "Lila Wells",
+    "text": "Lila Wells\nBusiness analyst, McKinsey & Company\n(Panelist)\nLila graduated from Northwestern University in 2023 with a major in Sociology, a minor in Data Science, and a certificate in Human-Computer Interaction. At McKinsey, she does most of her work in operations, where she primarily works with large datasets in Excel, often dealing with raw data that requires extensive cleaning, wrangling, and analysis to extract meaningful insights. Her first role after graduation was as a Program Manager at Amazon Web Services (AWS), where where she was involved in business and product operations for cloud computing services. Lila worked with large datasets and self-taught JavaScript to streamline web-based analytics tasks."
+  },
+  {
+    "objectID": "panelists_judges.html#zichen-victoria-shi",
+    "href": "panelists_judges.html#zichen-victoria-shi",
+    "title": "Meet our panelists & judges",
+    "section": "Zichen (Victoria) Shi",
+    "text": "Zichen (Victoria) Shi\nFirst-year data science PhD student at University of Chicago\n(Panelist)\nVictoria Shi is a first-year Data Science Ph.D. student at the University of Chicago. She graduated from Northwestern University in 2024 with a triple major in Industrial Engineering, Data Science, and Statistics, plus a minor in Economics. Victoria decided to pursue a Ph.D. after her sophomore internship at Goldman Sachs, where she worked as a quant strat, constructing a robust data pipeline for a knowledge graph for data-driven investment. Currently, she draws on insights from machine learning, optimization, and inference to develop a unified theoretical framework for risk-aware decision-making—a theme inspired by her undergraduate honors thesis in Statistics with Professor Thomas Severini on stochastic dominance and its implications for portfolio selection under uncertainty. During her undergraduate studies, Victoria managed her jam-packed academic load in just three years while still finding time to climb and chase new adventures. She enjoys playing tennis, rock climbing, and tinkering."
   },
   {
     "objectID": "sponsors.html",
@@ -256,14 +312,14 @@
     "href": "panel_discussion.html",
     "title": "Careers in data science",
     "section": "",
-    "text": "There will be a panel discussion on Careers in data science on Sunday, 6th April from 5 to 6:30 pm at Guild Lounge.\nMeet our panelists—from history majors to engineers, young professionals to seasoned experts—each with a unique career path in data science. Listen to the stories of five unique journeys into data science. Ask them what inspired their path—or if their path chose them?\n\n\n\n\n\nAssociate Partner at McKinsey & Company I Senior Principal at QuantumBlack, AI by McKinsey\nSanchit Tiwari is a recognized AI & Data Science leader with extensive experience in Data-Centric AI, Digital Twin, GenAI, and scalable AI solution architecture. As an Associate Partners at McKinsey & Company and Senior Principal at QuantumBlack, AI by Mckinsey, Sanchit has led large scale AI driven transformation across the globe with multiple organizations. With two decades of experience, Sanchit specializes in leveraging advancement in AI and GenAI to optimize operations and business strategy. He has developed expertise in AI-powered Digital Twins and implementing AI driven automation to drive measurable business impact. Beyond his industry work, Sanchit is passionate thought leader, speaker, and mentor in the field of AI. He actively shares insights on Data Science and future of AI in enterprise. He is deeply committed bridging the gap between data science & AI research and real work applications, helping business scale data science solutions effectively. His academic foundation in computer science combined with his deep industry expertise enables him to blend Data Science research with practical business applications to create transformative solutions.\n\n\n\n\n\n\nAssistant Professor, Kellogg School of Management, Northwestern University\nDaniela received her Ph.D. in Operations Research at Georgia Tech in December 2021, a Master of Science in Industrial Engineering and an undergraduate degree in Industrial Engineering and Math Engineering at Pontificia Universidad Católica the Chile. Before joining Kellogg, she spent 1.5 years as an Assistant professor of Mathematics at William & Mary. Her research interests focus on performance analysis of Stochastic Processing Networks and applied probability, which are fundamental in data science for optimizing complex systems, modeling uncertainty, and improving decision-making in areas such as machine learning, operations research, and large-scale data processing.\n\n\n\n\n\n\nData Specialist at Strengthening Chicago’s Youth, a program of Lurie Children’s Hospital\nKevin Rak is a Program Specialist (Data) with Strengthening Chicago’s Youth, a program of Lurie Children’s Hospital that connects, collaborates, and mobilizes around a public health approach to violence prevention. He has several years’ experience working in community-based organizations on a variety of issues, including homeless services, support for domestic violence survivors, and violence prevention. Kevin has analyzed and presented data to make it useful to residents, community organizations, researchers, and funders. He has contributed to research that has been published in peer-reviewed journals and shared with policy makers. Kevin holds a Bachelor’s in History from Northwestern University and a Master’s in Public Policy from King’s College London.\n\n\n\n\n\n\nData Science Manager, Ventas REIT\nTina Zheng is a Data Science Manager at Ventas, a leading real estate investment trust in the healthcare sector. She specializes in translating complex data into actionable insights that support strategic decisions around acquisitions, dispositions, and portfolio performance. At the intersection of research, analytics, and machine learning, Tina’s work drives the development of visualization tools and data-driven presentations that inform executive decision-making and enhance operational outcomes. She graduated from Northwestern University in 2019 with a double major in Economics and Music (Violin).\n\n\n\n\n\n\nBusiness analyst, McKinsey & Company\nLila graduated from Northwestern University in 2023 with a major in Sociology, a minor in Data Science, and a certificate in Human-Computer Interaction. At McKinsey, she does most of her work in operations, where she primarily works with large datasets in Excel, often dealing with raw data that requires extensive cleaning, wrangling, and analysis to extract meaningful insights. Her first role after graduation was as a Program Manager at Amazon Web Services (AWS), where where she was involved in business and product operations for cloud computing services. Lila worked with large datasets and self-taught JavaScript to streamline web-based analytics tasks.\n\n\n\n\n\n\nFirst-year data science PhD student at University of Chicago\nVictoria Shi is a first-year Data Science Ph.D. student at the University of Chicago. She graduated from Northwestern University in 2024 with a triple major in Industrial Engineering, Data Science, and Statistics, plus a minor in Economics. Victoria decided to pursue a Ph.D. after her sophomore internship at Goldman Sachs, where she worked as a quant strat, constructing a robust data pipeline for a knowledge graph for data-driven investment. Currently, she draws on insights from machine learning, optimization, and inference to develop a unified theoretical framework for risk-aware decision-making—a theme inspired by her undergraduate honors thesis in Statistics with Professor Thomas Severini on stochastic dominance and its implications for portfolio selection under uncertainty. During her undergraduate studies, Victoria managed her jam-packed academic load in just three years while still finding time to climb and chase new adventures. She enjoys playing tennis, rock climbing, and tinkering."
+    "text": "There will be a panel discussion on Careers in data science on Sunday, 6th April from 5 to 6:30 pm at Guild Lounge.\nMeet our panelists from history majors to engineers, young professionals to seasoned experts—each with a unique career path in data science. Listen to the stories of five unique journeys into data science. Ask them what inspired their path—or if their path chose them?"
   },
   {
     "objectID": "panel_discussion.html#panel-discussion-session",
     "href": "panel_discussion.html#panel-discussion-session",
     "title": "Careers in data science",
     "section": "",
-    "text": "There will be a panel discussion on Careers in data science on Sunday, 6th April from 5 to 6:30 pm at Guild Lounge.\nMeet our panelists—from history majors to engineers, young professionals to seasoned experts—each with a unique career path in data science. Listen to the stories of five unique journeys into data science. Ask them what inspired their path—or if their path chose them?\n\n\n\n\n\nAssociate Partner at McKinsey & Company I Senior Principal at QuantumBlack, AI by McKinsey\nSanchit Tiwari is a recognized AI & Data Science leader with extensive experience in Data-Centric AI, Digital Twin, GenAI, and scalable AI solution architecture. As an Associate Partners at McKinsey & Company and Senior Principal at QuantumBlack, AI by Mckinsey, Sanchit has led large scale AI driven transformation across the globe with multiple organizations. With two decades of experience, Sanchit specializes in leveraging advancement in AI and GenAI to optimize operations and business strategy. He has developed expertise in AI-powered Digital Twins and implementing AI driven automation to drive measurable business impact. Beyond his industry work, Sanchit is passionate thought leader, speaker, and mentor in the field of AI. He actively shares insights on Data Science and future of AI in enterprise. He is deeply committed bridging the gap between data science & AI research and real work applications, helping business scale data science solutions effectively. His academic foundation in computer science combined with his deep industry expertise enables him to blend Data Science research with practical business applications to create transformative solutions.\n\n\n\n\n\n\nAssistant Professor, Kellogg School of Management, Northwestern University\nDaniela received her Ph.D. in Operations Research at Georgia Tech in December 2021, a Master of Science in Industrial Engineering and an undergraduate degree in Industrial Engineering and Math Engineering at Pontificia Universidad Católica the Chile. Before joining Kellogg, she spent 1.5 years as an Assistant professor of Mathematics at William & Mary. Her research interests focus on performance analysis of Stochastic Processing Networks and applied probability, which are fundamental in data science for optimizing complex systems, modeling uncertainty, and improving decision-making in areas such as machine learning, operations research, and large-scale data processing.\n\n\n\n\n\n\nData Specialist at Strengthening Chicago’s Youth, a program of Lurie Children’s Hospital\nKevin Rak is a Program Specialist (Data) with Strengthening Chicago’s Youth, a program of Lurie Children’s Hospital that connects, collaborates, and mobilizes around a public health approach to violence prevention. He has several years’ experience working in community-based organizations on a variety of issues, including homeless services, support for domestic violence survivors, and violence prevention. Kevin has analyzed and presented data to make it useful to residents, community organizations, researchers, and funders. He has contributed to research that has been published in peer-reviewed journals and shared with policy makers. Kevin holds a Bachelor’s in History from Northwestern University and a Master’s in Public Policy from King’s College London.\n\n\n\n\n\n\nData Science Manager, Ventas REIT\nTina Zheng is a Data Science Manager at Ventas, a leading real estate investment trust in the healthcare sector. She specializes in translating complex data into actionable insights that support strategic decisions around acquisitions, dispositions, and portfolio performance. At the intersection of research, analytics, and machine learning, Tina’s work drives the development of visualization tools and data-driven presentations that inform executive decision-making and enhance operational outcomes. She graduated from Northwestern University in 2019 with a double major in Economics and Music (Violin).\n\n\n\n\n\n\nBusiness analyst, McKinsey & Company\nLila graduated from Northwestern University in 2023 with a major in Sociology, a minor in Data Science, and a certificate in Human-Computer Interaction. At McKinsey, she does most of her work in operations, where she primarily works with large datasets in Excel, often dealing with raw data that requires extensive cleaning, wrangling, and analysis to extract meaningful insights. Her first role after graduation was as a Program Manager at Amazon Web Services (AWS), where where she was involved in business and product operations for cloud computing services. Lila worked with large datasets and self-taught JavaScript to streamline web-based analytics tasks.\n\n\n\n\n\n\nFirst-year data science PhD student at University of Chicago\nVictoria Shi is a first-year Data Science Ph.D. student at the University of Chicago. She graduated from Northwestern University in 2024 with a triple major in Industrial Engineering, Data Science, and Statistics, plus a minor in Economics. Victoria decided to pursue a Ph.D. after her sophomore internship at Goldman Sachs, where she worked as a quant strat, constructing a robust data pipeline for a knowledge graph for data-driven investment. Currently, she draws on insights from machine learning, optimization, and inference to develop a unified theoretical framework for risk-aware decision-making—a theme inspired by her undergraduate honors thesis in Statistics with Professor Thomas Severini on stochastic dominance and its implications for portfolio selection under uncertainty. During her undergraduate studies, Victoria managed her jam-packed academic load in just three years while still finding time to climb and chase new adventures. She enjoys playing tennis, rock climbing, and tinkering."
+    "text": "There will be a panel discussion on Careers in data science on Sunday, 6th April from 5 to 6:30 pm at Guild Lounge.\nMeet our panelists from history majors to engineers, young professionals to seasoned experts—each with a unique career path in data science. Listen to the stories of five unique journeys into data science. Ask them what inspired their path—or if their path chose them?"
   },
   {
     "objectID": "panel_discussion.html#networking-with-capital-one",
