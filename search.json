@@ -109,7 +109,7 @@
     "href": "contactus.html",
     "title": "DataFest Organizing Committee",
     "section": "",
-    "text": "For any questions, comments, feedback, or ways to contribute to the event (sponsorship / volunteering), please contact any of our team members:\n\nFaculty Coordinator: Krish (Arvind Krishna)\nkrish [AT] northwestern.edu\n\nOverall Coordinator: Gulsimo Osimi\ngulsimoosimi2025 [AT] u.northwestern.edu\n\n\n\n\n\n\n\n\n\nPublicity & Social Media: \nHyouji Joo\nhyoujijoo2027 [AT] u.northwestern.edu\n\n\n\n\n\n\n\nAssistance: \nJessica Li\njessicali2025 [AT] u.northwestern.edu\n\n\n\n\n\n\n\nCommunications & Logistics: \nCara Chang\ncarachang2025@ [AT] u.northwestern.edu"
+    "text": "For any questions, comments, feedback, or ways to contribute to the event (sponsorship / volunteering), please contact any of our team members:\n\nFaculty Coordinator: Krish (Arvind Krishna)\nkrish [AT] northwestern.edu\n\nOverall Coordinator: Gulsimo Osimi\ngulsimoosimi2025 [AT] u.northwestern.edu\n\n\n\n\n\n\n\n\n\nAssistance: \nHyouji Joo\nhyoujijoo2027 [AT] u.northwestern.edu\n\n\n\n\n\n\n\nAssistance: \nJessica Li\njessicali2025 [AT] u.northwestern.edu\n\n\n\n\n\n\n\nLogistics: \nCara Chang\ncarachang2025@ [AT] u.northwestern.edu"
   },
   {
     "objectID": "schedule.html",
@@ -396,7 +396,7 @@
     "href": "mentors.html#mary-wu",
     "title": "Meet our team mentors",
     "section": "Mary Wu",
-    "text": "Mary Wu\nMS student, Northwestern University\nMary is a first-year Master’s student in Statistics & Data Science. She graduated from New York University in 2024 with a joint major in Economics & Mathematics and a minor in Music. Mary has research experience across economics, business, and statistics - most recently focusing on the impact of AI on corporate decision-making (particularly in the context of foreign expansion) as well as Bayesian statistics. Mary is experienced with data manipulation in Python, R, and SQL, and is passionate about turning data into meaningful stories that drive real-life impact. She especially hopes to support underrepresented students and those new to data analysis, and aims to be a resource for anyone navigating grad school, internships, and research."
+    "text": "Mary Wu\nMS Student in Statistics & Data Science, Northwestern University\nMary graduated from New York University in 2024 with a joint major in Economics & Mathematics and a minor in Music. Mary has research experience across economics, business, and statistics - most recently focusing on the impact of AI on corporate decision-making (particularly in the context of foreign expansion) as well as Bayesian statistics. Mary is experienced with data manipulation in Python, R, and SQL, and is passionate about turning data into meaningful stories that drive real-life impact. She especially hopes to support underrepresented students and those new to data analysis, and aims to be a resource for anyone navigating grad school, internships, and research."
   },
   {
     "objectID": "mentors.html#akash-rathi",
@@ -434,6 +434,13 @@
     "text": "Kyle Williams\nSoftware Engineer, Lakeview Investment Group\nKyle earned his BS in Computer Science with a Minor in Data Science in June 2023, followed by an MS in Computer Science in June 2024. Kyle has always been drawn to Machine Learning and Data Analysis. Being able to understand and communicate about data makes him feel powerful and responsible. While he took a majority of his courseload in the CS Department, it is the application of math, statistics, and science through code that is the most interesting to me.\nAs a part of his master’s, Kyle completed a Thesis on LLMs (Large Language Models), where he augmented the attention mechanism to use Euclidean distance instead of dot-product to improve the performance of small models on OpenBookQA by 14%. Currently, Kyle is helping build high-speed, real-time dashboards and trading systems to display important statistics and execute orders when certain triggers are reached.\nKyle’s greatest strength as a mentor is his patience. As a triplet, Kyle had to share everything – even a birthday – and it’s made him a great listener, effective mediator and strong communicator. Kyle loves talking about code, and he hopes to be a resource for any student who wants to learn more about what it means to be a Computer Scientist in industry. Outside of tech, Kyle’s also a big fan of wrestling and football—and always happy to connect over either!"
   },
   {
+    "objectID": "mentors.html#xinhui-qian",
+    "href": "mentors.html#xinhui-qian",
+    "title": "Meet our team mentors",
+    "section": "Xinhui Qian",
+    "text": "Xinhui Qian\nMS Student in Statistics & Data Science, Northwestern University\nWith a strong background in data science and statistical modeling, Xinhui has experience working on projects involving machine learning, causal inference, and data visualization. Xinhui has applied techniques such as deep learning, machine learning, Monte Carlo simulations, and regression analysis to solve real-world problems across finance, healthcare, and industrial processes.\nHer technical skills include Python, SQL and R. As a mentor, Xinhui enjoys guiding students through the problem-solving process, helping them break down complex data science tasks, and strengthening their ability to draw meaningful insights from data. She focuses on building a collaborative and encouraging environment for teams to thrive."
+  },
+  {
     "objectID": "mentors.html#tuan-quach",
     "href": "mentors.html#tuan-quach",
     "title": "Meet our team mentors",
@@ -441,18 +448,18 @@
     "text": "Tuan Quach\nSenior Associate, Software engineer, Capital One\n(Judge & Mentor)\nTuan graduated from University of Maryland in 2019 with a major in Computer Science and Mathematics. At Capital One, he does most of his work in Site Reliability Engineering, where he primarily works with large traffic data, focusing on managing large-scale traffic operation. His work involves building robust pipelines, deep dive into observability data for Mobile and Web to extract meaningful insights to preventing outage, decision-making, alerting systems. He has a strong interest in leveraging Generative AI to Change Banking for Good. Tuan’s mentoring style is very interactive. He has previously taught elementary and middle school students coding and is part of CodePath where he prepared College Students for interviews."
   },
   {
+    "objectID": "mentors.html#zihan-zhao",
+    "href": "mentors.html#zihan-zhao",
+    "title": "Meet our team mentors",
+    "section": "Zihan Zhao",
+    "text": "Zihan Zhao\nMS Student in Statistics & Data Science, Northwestern University\nZihan is well-aquainted with data visualization, exploratory data analysis, and statistical modeling. She has worked as a home tutor, teaching maths and physics to high school students. She helped them develop effective learning strategies and a better understanding of concepts. Zihan is an active listener who provides immediate feedback and supports students with patience and attention to detail. She takes her responsibilities seriously and is committed to guiding students in discovering solutions through exploration. With coursework in psychology, Zihan also prioritizes their overall well-being, ensuring they feel both supported and motivated throughout the learning process. This approach allows her to be not just a tutor, but a mentor who fosters both academic growth and personal confidence."
+  },
+  {
     "objectID": "mentors.html#david-frost",
     "href": "mentors.html#david-frost",
     "title": "Meet our team mentors",
     "section": "David Frost",
     "text": "David Frost\nSoftware engineer, Capital One\nDavid is a software engineer at Capital One where he works on site reliability engineering (SRE) and DevOps for the company’s web and mobile apps, optimizing the digital experience for 40 million customers. He graduated with an MS and BS in computer science and artificial intelligence in 2024 from Case Western Reserve University (CWRU) in Cleveland, OH. He previously interned at Capital One in Chicago and worked as a teaching assistant and research assistant in machine learning and algorithms at CWRU. David served CWRU’s Association for Computing Machinery student chapter as President where he co-led the creation of a student-run AI conference for which he also hosted a panel discussion with local experts. David volunteers weekly to teach middle school students coding and is passionate about learning more about Generative AI and data science in his free time. His previous projects involve probabilistic graphical models (PGMs), high performance AI acceleration, classical AI, and retrieval-augmented generation (RAG)."
-  },
-  {
-    "objectID": "mentors.html#zihan-zhao",
-    "href": "mentors.html#zihan-zhao",
-    "title": "Meet our team mentors",
-    "section": "Zihan Zhao",
-    "text": "Zihan Zhao\nMS student, Northwestern University\nZihan is a first year MS student in the Department of Statistics and Data Science. She is well-aquainted with data visualization, exploratory data analysis, and statistical modeling. She has worked as a home tutor, teaching maths and physics to high school students. She helped them develop effective learning strategies and a better understanding of concepts. Zihan is an active listener who provides immediate feedback and supports students with patience and attention to detail. She takes her responsibilities seriously and is committed to guiding students in discovering solutions through exploration. With coursework in psychology, Zihan also prioritizes their overall well-being, ensuring they feel both supported and motivated throughout the learning process. This approach allows her to be not just a tutor, but a mentor who fosters both academic growth and personal confidence."
   },
   {
     "objectID": "panelists_judges.html",
