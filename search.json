@@ -441,6 +441,13 @@
     "text": "Kyle Williams\nSoftware Engineer, Lakeview Investment Group\nKyle earned his BS in Computer Science with a Minor in Data Science in June 2023, followed by an MS in Computer Science in June 2024. Kyle has always been drawn to Machine Learning and Data Analysis. Being able to understand and communicate about data makes him feel powerful and responsible. While he took a majority of his courseload in the CS Department, it is the application of math, statistics, and science through code that is the most interesting to me.\nAs a part of his master’s, Kyle completed a Thesis on LLMs (Large Language Models), where he augmented the attention mechanism to use Euclidean distance instead of dot-product to improve the performance of small models on OpenBookQA by 14%. Currently, Kyle is helping build high-speed, real-time dashboards and trading systems to display important statistics and execute orders when certain triggers are reached.\nKyle’s greatest strength as a mentor is his patience. As a triplet, Kyle had to share everything – even a birthday – and it’s made him a great listener, effective mediator and strong communicator. Kyle loves talking about code, and he hopes to be a resource for any student who wants to learn more about what it means to be a Computer Scientist in industry. Outside of tech, Kyle’s also a big fan of wrestling and football—and always happy to connect over either!"
   },
   {
+    "objectID": "mentors.html#tuan-quach",
+    "href": "mentors.html#tuan-quach",
+    "title": "Meet our team mentors",
+    "section": "Tuan Quach",
+    "text": "Tuan Quach\nSenior Associate, Software engineer, Capital One\nTuan graduated from University of Maryland in 2019 with a major in Computer Science and Mathematics. At Capital One, he does most of his work in Site Reliability Engineering, where he primarily works with large traffic data, focusing on managing large-scale traffic operation. His work involves building robust pipelines, deep dive into observability data for Mobile and Web to extract meaningful insights to preventing outage, decision-making, alerting systems. He has a strong interest in leveraging Generative AI to Change Banking for Good. Tuan’s mentoring style is very interactive. He has previously taught elementary and middle school students coding and is part of CodePath where he prepared College Students for interviews."
+  },
+  {
     "objectID": "mentors.html#david-frost",
     "href": "mentors.html#david-frost",
     "title": "Meet our team mentors",
