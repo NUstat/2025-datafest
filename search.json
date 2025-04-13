@@ -231,132 +231,6 @@
     "text": "13. Data Jays\n(Rebecca, Max, Lily, and Chelsea)\nMentor: Mary Wu"
   },
   {
-    "objectID": "signup.html",
-    "href": "signup.html",
-    "title": "Sign Up!",
-    "section": "",
-    "text": "Each individual or team participating in the ASA DataFest at Northwestern University must submit a registration form."
-  },
-  {
-    "objectID": "signup.html#participants",
-    "href": "signup.html#participants",
-    "title": "Sign Up!",
-    "section": "Participants",
-    "text": "Participants\nWant to compete in a data analysis competition, talk to data science professionals, and network? Northwestern undergraduate students are invited to register for the ASA DataFest 2025 at Northwestern University. If you form your own team, you will need to include information about each member of your team, including the team name. If you have not formed a team, you will have the chance on the registration form to request placement on a team. Please fill the participant registration form below.\nParticipant registration"
-  },
-  {
-    "objectID": "signup.html#mentors",
-    "href": "signup.html#mentors",
-    "title": "Sign Up!",
-    "section": "Mentors",
-    "text": "Mentors\nWant to mentor undergraduate student teams to help unleash their potential in the competition? While graduate students and faculty cannot compete in the ASA DataFest at Northwestern University, we strongly encourage them to advise undergraduate student teams as mentors during the event! Please complete the Mentor sign-up form below.\nMentor sign-up"
-  },
-  {
-    "objectID": "signup.html#volunteers",
-    "href": "signup.html#volunteers",
-    "title": "Sign Up!",
-    "section": "Volunteers",
-    "text": "Volunteers\nWant to be part of the fun without having to compete? Be an event volunteer & help us run the event! There are several ways you can help - technical support, photography, social media, check-in desk, clean-up crew, etc. Join us during the event days (4th - 6th April), hang out, meet people, and have food & fun! Please complete the volunteer sign-up form below.\nVolunteer sign-up"
-  },
-  {
-    "objectID": "signup.html#organizing-team",
-    "href": "signup.html#organizing-team",
-    "title": "Sign Up!",
-    "section": "Organizing team",
-    "text": "Organizing team\nWant to be a part of important decision-making & execution, and help us organize the DataFest? Be an organizing committee member. You may join any of the following teams - (1) Publicity, (2) Logistics, (3) Communications, (4) Event coordination and planning. Please complete the organizing committee application below, and we’ll get back soon!\nOrganizing committee application\n\n\n\n\n\n\nNote\n\n\n\nIf you have any questions about your registration, or about the DataFest, or if you wish to make changes to your registration, please contact Krish at krish [at] northwestern.edu"
-  },
-  {
-    "objectID": "coc.html",
-    "href": "coc.html",
-    "title": "Rules & Code of Conduct",
-    "section": "",
-    "text": "Students compete in teams of 2 - 5 people.\nAny additional data used in the project must be publicly available or openly licensed.\nAll interactive dashboards must be deployed online.\nAll slide decks and write ups must be submitted as a PDF document.\nIt’s a friendly competition, so collaboration between teams is encouraged. However, teams will compete each other for prizes.\nYou can come and go as you please, but all work must be completed at the indicated venue for the day.\nBefore downloading the dataset you must sign the Non-Disclosure Agreement by agreeing to the terms of use and entering your name and email address. At the end of DataFest, delete all data from thumb drives, hard drives, etc. The data are sensitive.\nShould members of your team drop out at the last minute, you might be merged with another team who is also missing members.\nMentors will be present for guidance at certain times of the competition, which will be announced close to the event. They are likely to have different areas of expertise, so ask accordingly. Feel free to ask anything. This is not an exam, but a collaboratory competition. Do not expect the mentors to write code for you, or do data management, etc. They are there to help point you in the right direction, but you’re responsible for getting there on your own. Schedule of mentors will be made available at the beginning of the event."
-  },
-  {
-    "objectID": "coc.html#general-rules",
-    "href": "coc.html#general-rules",
-    "title": "Rules & Code of Conduct",
-    "section": "",
-    "text": "Students compete in teams of 2 - 5 people.\nAny additional data used in the project must be publicly available or openly licensed.\nAll interactive dashboards must be deployed online.\nAll slide decks and write ups must be submitted as a PDF document.\nIt’s a friendly competition, so collaboration between teams is encouraged. However, teams will compete each other for prizes.\nYou can come and go as you please, but all work must be completed at the indicated venue for the day.\nBefore downloading the dataset you must sign the Non-Disclosure Agreement by agreeing to the terms of use and entering your name and email address. At the end of DataFest, delete all data from thumb drives, hard drives, etc. The data are sensitive.\nShould members of your team drop out at the last minute, you might be merged with another team who is also missing members.\nMentors will be present for guidance at certain times of the competition, which will be announced close to the event. They are likely to have different areas of expertise, so ask accordingly. Feel free to ask anything. This is not an exam, but a collaboratory competition. Do not expect the mentors to write code for you, or do data management, etc. They are there to help point you in the right direction, but you’re responsible for getting there on your own. Schedule of mentors will be made available at the beginning of the event."
-  },
-  {
-    "objectID": "coc.html#presentation-rules",
-    "href": "coc.html#presentation-rules",
-    "title": "Rules & Code of Conduct",
-    "section": "Presentation rules",
-    "text": "Presentation rules\n\nThe maximum time / number of slides to present for each team will be announced at the beginning of the event.\nAll team members must be present for the presentation, but not all team members need to actually speak (given the time limitation).\nYour presentation must be uploaded in the link provided by 11:45 am on Sunday. If using a web-based tool like GoogleDocs or Prezi, please export to PDF and send the PDF as your submission, you will not have time to log on/off to your account during the presentations.\nAlong with your presentation you will also turn in a one-page write-up of your project. You can think about this as the text of your presentation. The judges will refer to these during deliberation.\nAwards will be given to three teams in each of the three categories. The categories will be announced at the beginning of the event.\nWinners will be awarded the ASA Student membership, along with other prizes that will be announced later."
-  },
-  {
-    "objectID": "coc.html#guidelines-to-students",
-    "href": "coc.html#guidelines-to-students",
-    "title": "Rules & Code of Conduct",
-    "section": "Guidelines to students",
-    "text": "Guidelines to students\n\nWe recommend that every member of the team bring a laptop.You might find it helpful to have a mix of PCs and Macs, since they have different strengths.\nWe recommend that you make sure beforehand that the software you will be using throughout the weekend is properly installed and running on your computer. You will probably be working with a large dataset so make sure that you have the space for it on your drive.\nWe strongly recommend you create a small data set that you can use to test things on. Then, if it works out, you can apply your procedure to the large dataset. Some procedures can take a long time to run on large data sets, and so it will be comforting to know that your procedure works (because you tested it on a smaller data set) while you wait. We recommend taking a random sample of rows from the original data set, but there might be other approaches you find useful.\nThis is a collaborative event, and team work is required. We recommend creating an interdisciplinary team with a variety of skills. Find friends who are skilled in different software like Python, R, Tableau, AWS, SAS, or any other software package that you feel will be helpful. We encourage interdisciplinary educational backgrounds. For example, a team might consist of students studying Data Science, Mathematics, Computer Science, Business, and Art."
-  },
-  {
-    "objectID": "coc.html#code-of-conduct",
-    "href": "coc.html#code-of-conduct",
-    "title": "Rules & Code of Conduct",
-    "section": "Code of Conduct",
-    "text": "Code of Conduct\nEveryone must follow the ASA Code of Conduct during the entire duration of the event."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to DataFest 2025!",
-    "section": "",
-    "text": "Welcome to the official website of the first-ever DataFest at Northwestern! The event is primarily about a data science competition, where student teams compete for glory and prizes! The event also includes data scientists from both industry and academia to interact with and advise curious students. Also, there will be lots of food!"
-  },
-  {
-    "objectID": "index.html#event-details",
-    "href": "index.html#event-details",
-    "title": "Welcome to DataFest 2025!",
-    "section": "Event details",
-    "text": "Event details\nDate: Friday, April 4 at 5 pm - Sunday, April 6 at 7 pm\nVenue: Guild lounge (in Scott Hall) on April 4 & 6, Wildcat room 1-163 & 2-149 Eighteen Fifty-One Room (in Norris) on April 5\nSign-up: Click here to sign-up for the event!\nParticipants: All UG students are invited to participate, while graduate students are invited to mentor student teams. We are also inviting volunteers to help us organize and run the event.\nYou will be provided with a dataset and an open-ended goal on Friday evening. By Sunday afternoon, you will have to develop and present solutions to a panel of judges comprised of faculty and professionals involved in the field of Data Science. There will be prizes in many categories, such as best visualization, best use of external data, and best findings. A finalized list of categories will be announced at the beginning of the competition.\nThe event also includes a keynote speech from a leading industry expert, and a panel discussion on Careers in data science comprising of both faculty and industry professionals."
-  },
-  {
-    "objectID": "index.html#what-is-datafest",
-    "href": "index.html#what-is-datafest",
-    "title": "Welcome to DataFest 2025!",
-    "section": "What is DataFest?",
-    "text": "What is DataFest?\nASA DataFest at Northwestern is a data analysis competition organized by the Department of Statistics and Data Science at Northwestern University in collaboration with ASA (American Statistical Association).\nTeams of 2 - 5 students analyse a potentially large & complex dataset, over a weekend. The problem statement is typically broad and open-ended, providing a lot of room for innovation. Your job is to find and communicate insights from the data that help answer the problem statement. You are encouraged to ask questions and receive advice from mentors, while working on the problem.\nASA DataFest is also a great opportunity to gain experience that employers are looking for. Having worked on a data analysis problem at this scale will certainly help make you a good candidate for any position that involves analysis and critical thinking, and it will provide a concrete example to demonstrate your experience during interviews.\nYou will also get the opportunity to interact with data scientists from industry and academia, to get some insights about a data science career.\nFood & drinks will be provided throughout the event to keep you going! We hope that everyone has an enjoyable and enlightening experience!"
-  },
-  {
-    "objectID": "index.html#previous-asa-datafests",
-    "href": "index.html#previous-asa-datafests",
-    "title": "Welcome to DataFest 2025!",
-    "section": "Previous ASA DataFests",
-    "text": "Previous ASA DataFests\nAlthough this is the first-ever DataFest at Northwestern, several top universities all over the world have been collaborating with ASA to host DataFests since 2011. Here is the link to the problem statements of the previous DataFests."
-  },
-  {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "DataFest 2025",
-    "section": "",
-    "text": "Data wrangling with Python: https://nustat.github.io/DataScience_Intro_python/\nData wrangling with R: https://r4ds.had.co.nz/\nData visualization with R: https://ggplot2-book.org/"
-  },
-  {
-    "objectID": "resources.html#data-wrangling-and-visualization",
-    "href": "resources.html#data-wrangling-and-visualization",
-    "title": "DataFest 2025",
-    "section": "",
-    "text": "Data wrangling with Python: https://nustat.github.io/DataScience_Intro_python/\nData wrangling with R: https://r4ds.had.co.nz/\nData visualization with R: https://ggplot2-book.org/"
-  },
-  {
-    "objectID": "resources.html#interactive-dashboard",
-    "href": "resources.html#interactive-dashboard",
-    "title": "DataFest 2025",
-    "section": "Interactive dashboard:",
-    "text": "Interactive dashboard:\n\nShiny\n\nDeploy Shiny app on shinyapps.io: https://docs.rstudio.com/shinyapps.io/getting-started.html\nShiny tutorials: https://shiny.rstudio.com/tutorial/\n\nTableau:\n\nTableau Public: https://public.tableau.com/en-us/s\nTableau Desktop - free student license: https://www.tableau.com/academic"
-  },
-  {
-    "objectID": "resources.html#code-repository-version-control-and-collaboration",
-    "href": "resources.html#code-repository-version-control-and-collaboration",
-    "title": "DataFest 2025",
-    "section": "Code repository, version control, and collaboration",
-    "text": "Code repository, version control, and collaboration\n\nGitHub: https://www.github.com\nHappy Git with R: https://happygitwithr.com/"
-  },
-  {
     "objectID": "mentors.html",
     "href": "mentors.html",
     "title": "Meet our team mentors",
@@ -446,6 +320,167 @@
     "title": "Meet our team mentors",
     "section": "Adamya Prakash Srivastava",
     "text": "Adamya Prakash Srivastava\nQuantitative Trader, Jump Trading\nAdamya received a bachelors degree in Computer Science, Statistics, Economics, and Data Science from UC Berkeley in 2023. Since, he has worked as a quant for a high frequency trading firm where he specializes in algorithmically trading US markets. He uses many types of data science tools every day to create and iterate on trading strategies built on multiple sources of market data. Data science is used at every step of quantitative trading, from prototyping trading ideas, measuring market behavior, designing price predictions, analyzing trading performance, and diagnosing under-performance. Day to day tools include python, SQL, LLMs, python data science libraries, visualization software, and C++.\nHis mentorship style is example-driven and visual, having previously TA’d data science undergrad classes as well as teaching courses in poker theory and quantitative trading analysis."
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "DataFest 2025",
+    "section": "",
+    "text": "Data wrangling with Python: https://nustat.github.io/DataScience_Intro_python/\nData wrangling with R: https://r4ds.had.co.nz/\nData visualization with R: https://ggplot2-book.org/"
+  },
+  {
+    "objectID": "resources.html#data-wrangling-and-visualization",
+    "href": "resources.html#data-wrangling-and-visualization",
+    "title": "DataFest 2025",
+    "section": "",
+    "text": "Data wrangling with Python: https://nustat.github.io/DataScience_Intro_python/\nData wrangling with R: https://r4ds.had.co.nz/\nData visualization with R: https://ggplot2-book.org/"
+  },
+  {
+    "objectID": "resources.html#interactive-dashboard",
+    "href": "resources.html#interactive-dashboard",
+    "title": "DataFest 2025",
+    "section": "Interactive dashboard:",
+    "text": "Interactive dashboard:\n\nShiny\n\nDeploy Shiny app on shinyapps.io: https://docs.rstudio.com/shinyapps.io/getting-started.html\nShiny tutorials: https://shiny.rstudio.com/tutorial/\n\nTableau:\n\nTableau Public: https://public.tableau.com/en-us/s\nTableau Desktop - free student license: https://www.tableau.com/academic"
+  },
+  {
+    "objectID": "resources.html#code-repository-version-control-and-collaboration",
+    "href": "resources.html#code-repository-version-control-and-collaboration",
+    "title": "DataFest 2025",
+    "section": "Code repository, version control, and collaboration",
+    "text": "Code repository, version control, and collaboration\n\nGitHub: https://www.github.com\nHappy Git with R: https://happygitwithr.com/"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to DataFest 2025!",
+    "section": "",
+    "text": "Welcome to the official website of the first-ever DataFest at Northwestern! The event is primarily about a data science competition, where student teams compete for glory and prizes! The event also includes data scientists from both industry and academia to interact with and advise curious students. Also, there will be lots of food!"
+  },
+  {
+    "objectID": "index.html#event-details",
+    "href": "index.html#event-details",
+    "title": "Welcome to DataFest 2025!",
+    "section": "Event details",
+    "text": "Event details\nDate: Friday, April 4 at 5 pm - Sunday, April 6 at 7 pm\nVenue: Guild lounge (in Scott Hall) on April 4 & 6, Wildcat room 1-163 & 2-149 Eighteen Fifty-One Room (in Norris) on April 5\nSign-up: Click here to sign-up for the event!\nParticipants: All UG students are invited to participate, while graduate students are invited to mentor student teams. We are also inviting volunteers to help us organize and run the event.\nYou will be provided with a dataset and an open-ended goal on Friday evening. By Sunday afternoon, you will have to develop and present solutions to a panel of judges comprised of faculty and professionals involved in the field of Data Science. There will be prizes in many categories, such as best visualization, best use of external data, and best findings. A finalized list of categories will be announced at the beginning of the competition.\nThe event also includes a keynote speech from a leading industry expert, and a panel discussion on Careers in data science comprising of both faculty and industry professionals."
+  },
+  {
+    "objectID": "index.html#what-is-datafest",
+    "href": "index.html#what-is-datafest",
+    "title": "Welcome to DataFest 2025!",
+    "section": "What is DataFest?",
+    "text": "What is DataFest?\nASA DataFest at Northwestern is a data analysis competition organized by the Department of Statistics and Data Science at Northwestern University in collaboration with ASA (American Statistical Association).\nTeams of 2 - 5 students analyse a potentially large & complex dataset, over a weekend. The problem statement is typically broad and open-ended, providing a lot of room for innovation. Your job is to find and communicate insights from the data that help answer the problem statement. You are encouraged to ask questions and receive advice from mentors, while working on the problem.\nASA DataFest is also a great opportunity to gain experience that employers are looking for. Having worked on a data analysis problem at this scale will certainly help make you a good candidate for any position that involves analysis and critical thinking, and it will provide a concrete example to demonstrate your experience during interviews.\nYou will also get the opportunity to interact with data scientists from industry and academia, to get some insights about a data science career.\nFood & drinks will be provided throughout the event to keep you going! We hope that everyone has an enjoyable and enlightening experience!"
+  },
+  {
+    "objectID": "index.html#previous-asa-datafests",
+    "href": "index.html#previous-asa-datafests",
+    "title": "Welcome to DataFest 2025!",
+    "section": "Previous ASA DataFests",
+    "text": "Previous ASA DataFests\nAlthough this is the first-ever DataFest at Northwestern, several top universities all over the world have been collaborating with ASA to host DataFests since 2011. Here is the link to the problem statements of the previous DataFests."
+  },
+  {
+    "objectID": "coc.html",
+    "href": "coc.html",
+    "title": "Rules & Code of Conduct",
+    "section": "",
+    "text": "Students compete in teams of 2 - 5 people.\nAny additional data used in the project must be publicly available or openly licensed.\nAll interactive dashboards must be deployed online.\nAll slide decks and write ups must be submitted as a PDF document.\nIt’s a friendly competition, so collaboration between teams is encouraged. However, teams will compete each other for prizes.\nYou can come and go as you please, but all work must be completed at the indicated venue for the day.\nBefore downloading the dataset you must sign the Non-Disclosure Agreement by agreeing to the terms of use and entering your name and email address. At the end of DataFest, delete all data from thumb drives, hard drives, etc. The data are sensitive.\nShould members of your team drop out at the last minute, you might be merged with another team who is also missing members.\nMentors will be present for guidance at certain times of the competition, which will be announced close to the event. They are likely to have different areas of expertise, so ask accordingly. Feel free to ask anything. This is not an exam, but a collaboratory competition. Do not expect the mentors to write code for you, or do data management, etc. They are there to help point you in the right direction, but you’re responsible for getting there on your own. Schedule of mentors will be made available at the beginning of the event."
+  },
+  {
+    "objectID": "coc.html#general-rules",
+    "href": "coc.html#general-rules",
+    "title": "Rules & Code of Conduct",
+    "section": "",
+    "text": "Students compete in teams of 2 - 5 people.\nAny additional data used in the project must be publicly available or openly licensed.\nAll interactive dashboards must be deployed online.\nAll slide decks and write ups must be submitted as a PDF document.\nIt’s a friendly competition, so collaboration between teams is encouraged. However, teams will compete each other for prizes.\nYou can come and go as you please, but all work must be completed at the indicated venue for the day.\nBefore downloading the dataset you must sign the Non-Disclosure Agreement by agreeing to the terms of use and entering your name and email address. At the end of DataFest, delete all data from thumb drives, hard drives, etc. The data are sensitive.\nShould members of your team drop out at the last minute, you might be merged with another team who is also missing members.\nMentors will be present for guidance at certain times of the competition, which will be announced close to the event. They are likely to have different areas of expertise, so ask accordingly. Feel free to ask anything. This is not an exam, but a collaboratory competition. Do not expect the mentors to write code for you, or do data management, etc. They are there to help point you in the right direction, but you’re responsible for getting there on your own. Schedule of mentors will be made available at the beginning of the event."
+  },
+  {
+    "objectID": "coc.html#presentation-rules",
+    "href": "coc.html#presentation-rules",
+    "title": "Rules & Code of Conduct",
+    "section": "Presentation rules",
+    "text": "Presentation rules\n\nThe maximum time / number of slides to present for each team will be announced at the beginning of the event.\nAll team members must be present for the presentation, but not all team members need to actually speak (given the time limitation).\nYour presentation must be uploaded in the link provided by 11:45 am on Sunday. If using a web-based tool like GoogleDocs or Prezi, please export to PDF and send the PDF as your submission, you will not have time to log on/off to your account during the presentations.\nAlong with your presentation you will also turn in a one-page write-up of your project. You can think about this as the text of your presentation. The judges will refer to these during deliberation.\nAwards will be given to three teams in each of the three categories. The categories will be announced at the beginning of the event.\nWinners will be awarded the ASA Student membership, along with other prizes that will be announced later."
+  },
+  {
+    "objectID": "coc.html#guidelines-to-students",
+    "href": "coc.html#guidelines-to-students",
+    "title": "Rules & Code of Conduct",
+    "section": "Guidelines to students",
+    "text": "Guidelines to students\n\nWe recommend that every member of the team bring a laptop.You might find it helpful to have a mix of PCs and Macs, since they have different strengths.\nWe recommend that you make sure beforehand that the software you will be using throughout the weekend is properly installed and running on your computer. You will probably be working with a large dataset so make sure that you have the space for it on your drive.\nWe strongly recommend you create a small data set that you can use to test things on. Then, if it works out, you can apply your procedure to the large dataset. Some procedures can take a long time to run on large data sets, and so it will be comforting to know that your procedure works (because you tested it on a smaller data set) while you wait. We recommend taking a random sample of rows from the original data set, but there might be other approaches you find useful.\nThis is a collaborative event, and team work is required. We recommend creating an interdisciplinary team with a variety of skills. Find friends who are skilled in different software like Python, R, Tableau, AWS, SAS, or any other software package that you feel will be helpful. We encourage interdisciplinary educational backgrounds. For example, a team might consist of students studying Data Science, Mathematics, Computer Science, Business, and Art."
+  },
+  {
+    "objectID": "coc.html#code-of-conduct",
+    "href": "coc.html#code-of-conduct",
+    "title": "Rules & Code of Conduct",
+    "section": "Code of Conduct",
+    "text": "Code of Conduct\nEveryone must follow the ASA Code of Conduct during the entire duration of the event."
+  },
+  {
+    "objectID": "signup.html",
+    "href": "signup.html",
+    "title": "Sign Up!",
+    "section": "",
+    "text": "Each individual or team participating in the ASA DataFest at Northwestern University must submit a registration form."
+  },
+  {
+    "objectID": "signup.html#participants",
+    "href": "signup.html#participants",
+    "title": "Sign Up!",
+    "section": "Participants",
+    "text": "Participants\nWant to compete in a data analysis competition, talk to data science professionals, and network? Northwestern undergraduate students are invited to register for the ASA DataFest 2025 at Northwestern University. If you form your own team, you will need to include information about each member of your team, including the team name. If you have not formed a team, you will have the chance on the registration form to request placement on a team. Please fill the participant registration form below.\nParticipant registration"
+  },
+  {
+    "objectID": "signup.html#mentors",
+    "href": "signup.html#mentors",
+    "title": "Sign Up!",
+    "section": "Mentors",
+    "text": "Mentors\nWant to mentor undergraduate student teams to help unleash their potential in the competition? While graduate students and faculty cannot compete in the ASA DataFest at Northwestern University, we strongly encourage them to advise undergraduate student teams as mentors during the event! Please complete the Mentor sign-up form below.\nMentor sign-up"
+  },
+  {
+    "objectID": "signup.html#volunteers",
+    "href": "signup.html#volunteers",
+    "title": "Sign Up!",
+    "section": "Volunteers",
+    "text": "Volunteers\nWant to be part of the fun without having to compete? Be an event volunteer & help us run the event! There are several ways you can help - technical support, photography, social media, check-in desk, clean-up crew, etc. Join us during the event days (4th - 6th April), hang out, meet people, and have food & fun! Please complete the volunteer sign-up form below.\nVolunteer sign-up"
+  },
+  {
+    "objectID": "signup.html#organizing-team",
+    "href": "signup.html#organizing-team",
+    "title": "Sign Up!",
+    "section": "Organizing team",
+    "text": "Organizing team\nWant to be a part of important decision-making & execution, and help us organize the DataFest? Be an organizing committee member. You may join any of the following teams - (1) Publicity, (2) Logistics, (3) Communications, (4) Event coordination and planning. Please complete the organizing committee application below, and we’ll get back soon!\nOrganizing committee application\n\n\n\n\n\n\nNote\n\n\n\nIf you have any questions about your registration, or about the DataFest, or if you wish to make changes to your registration, please contact Krish at krish [at] northwestern.edu"
+  },
+  {
+    "objectID": "winners.html",
+    "href": "winners.html",
+    "title": "Participant Teams 🔥",
+    "section": "",
+    "text": "After 3.5 hours of team presentations and nearly an hour of thoughtful deliberation by the judges, four standout teams emerged as the winners of this year’s DataFest."
+  },
+  {
+    "objectID": "winners.html#first-place-award---ggap",
+    "href": "winners.html#first-place-award---ggap",
+    "title": "Participant Teams 🔥",
+    "section": "1. First Place Award - GGAP !!!!",
+    "text": "1. First Place Award - GGAP !!!!\n(Alyssa, Paisley, Grace & Grace)\nThe 2025 epilogue to the GGAP 303 sequence trilogy\nMentor: Cathy Kim"
+  },
+  {
+    "objectID": "winners.html#second-place-award---team-na",
+    "href": "winners.html#second-place-award---team-na",
+    "title": "Participant Teams 🔥",
+    "section": "2. Second Place Award - Team NA !!!",
+    "text": "2. Second Place Award - Team NA !!!\n(Noah & Aryaman)\nFilling in the gaps, one data point at a time\nMentor: Zihan Zhao"
+  },
+  {
+    "objectID": "winners.html#third-place-award---hot-tea",
+    "href": "winners.html#third-place-award---hot-tea",
+    "title": "Participant Teams 🔥",
+    "section": "3. Third Place Award - Hot Tea !!",
+    "text": "3. Third Place Award - Hot Tea !!\n(Ice, Robert, and Owen)\nJust an ordinary dataset, but with the right model, we can make it trend like a hot tea\nMentor: David Frost"
+  },
+  {
+    "objectID": "winners.html#peoples-choice-award---the-prompt-engineers",
+    "href": "winners.html#peoples-choice-award---the-prompt-engineers",
+    "title": "Participant Teams 🔥",
+    "section": "4, People’s Choice Award - The Prompt Engineers !",
+    "text": "4, People’s Choice Award - The Prompt Engineers !\n(Harrison, Abigail, Jinhe, and Olzhasbek)\nWe may not have the answers, but we will be sure to phrase a question well enough to fake it\nMentor: Xinhui Qian"
   },
   {
     "objectID": "panelists_judges.html",
